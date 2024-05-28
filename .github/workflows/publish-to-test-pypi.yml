@@ -100,7 +100,7 @@ jobs:
 
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/jam.py-v5-test
+      url: https://test.pypi.org/legacy/
 
     permissions:
       id-token: write  # IMPORTANT: mandatory for trusted publishing
