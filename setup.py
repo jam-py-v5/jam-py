@@ -3,7 +3,7 @@ from setuptools import setup
 import jam
 
 setup(
-    name='jam.py',
+    name='jam.py-v5',
     version=jam.version(),
     url='http://jam-py.com/',
     author='Andrew Yushev',
