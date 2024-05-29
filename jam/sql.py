@@ -528,8 +528,9 @@ class SQL(object):
                     if func:
                         result += '%s."%s", ' % (self.table_alias(), field.db_field_name)
                     else:
-                        result += '%s, %s."%s", ' % (self.lookup_field_sql(field, db_module),
-                            self.table_alias(), field.db_field_name)
+                        #result += '%s, %s."%s", ' % (self.lookup_field_sql(field, db_module),
+                        #    self.table_alias(), field.db_field_name)
+                        result += '%s, ' % (self.lookup_field_sql(field, db_module))
                 else:
                     result += '%s."%s", ' % (self.table_alias(), field.db_field_name)
             if result:
