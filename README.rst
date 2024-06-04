@@ -27,11 +27,11 @@ From an idea of a web database application to a live website in no time, for fre
 
 Click on the image to see the online demo
 
-.. figure:: demo/static/img/JAMPY_Readme.gif
+.. figure:: assets/images/JAMPY_Readme.gif
     :width: 100%
     :align: center
     :alt: Online demo
-    :target: https://demo.jam-py.com/
+    :target: https://northwind.pythonanywhere.com/
 
 
 If you are not a professional programmer or an expert in databases, you can use
