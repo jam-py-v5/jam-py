@@ -7,14 +7,9 @@
    :target: https://pypi.python.org/pypi/jam.py
    :alt: Supported Python Versions
 
-.. image:: https://readthedocs.org/projects/jam-py/badge/?version=stable
-   :target: http://jam-py.com/docs/
+.. image:: https://readthedocs.org/projects/jampy-docs/badge/
+   :target: https://jampy-docs.readthedocs.io/
    :alt: Documentation Status
-
-.. image:: https://api.travis-ci.org/platipusica/jam-py.png?branch=master
-   :target: http://travis-ci.org/platipusica/jam-py
-   :alt: Build Status (Travis CI)
-
 
 
 ================
