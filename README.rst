@@ -62,6 +62,7 @@ More demos on PythonAnywhere:
 * `Job Positions tracking App from MS Access DB (wip) <https://positionstracking.pythonanywhere.com>`_
 * `Kanban/Tasks Application <https://kanban.pythonanywhere.com>`_
 * `Assets Inventory Application (wip) <https://assetinventory.pythonanywhere.com>`_
+* `Google Authentication <https://ipam2.pythonanywhere.com>`_
 
 
 Jam.py alternative site:
