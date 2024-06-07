@@ -58,6 +58,7 @@ More demos on PythonAnywhere:
 * `Kanban/Tasks Application <https://kanban.pythonanywhere.com>`_
 * `Assets Inventory Application (wip) <https://assetinventory.pythonanywhere.com>`_
 * `Google Authentication <https://ipam2.pythonanywhere.com>`_
+* `IP Management (wip) <https://ipmgmt.pythonanywhere.com>`_
 
 
 Jam.py alternative site:
