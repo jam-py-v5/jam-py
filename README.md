@@ -1,14 +1,11 @@
 
-[![Package on PyPI](https://img.shields.io/pypi/v/jam.py-v5.svg)](https://pypi.org/project/jam.py-v5)
-
-[![Supported Python Versions](https://img.shields.io/pypi/pyversions/jam.py-v5.svg)](https://pypi.python.org/pypi/jam.py-v5)
-
-[![Documentation Status](https://readthedocs.org/projects/jampy-docs/badge/)](https://jampy-docs.readthedocs.io)
+[![Package on PyPI](https://img.shields.io/pypi/v/jam.py-v5.svg)](https://pypi.org/project/jam.py-v5) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/jam.py-v5.svg)](https://pypi.python.org/pypi/jam.py-v5) [![Documentation Status](https://readthedocs.org/projects/jampy-docs/badge/)](https://jampy-docs.readthedocs.io) [![Downloads](https://static.pepy.tech/badge/jam.py)](http://pepy.tech/project/jam.py)
 
 
-### Jam.py Application Builder (web framework)
+## Jam.py Application Builder (web framework)
 
-## This is Forked jam.py to continue the support and development, since Andrew is retiring from this project.
+## This is forked jam.py to continue the support and development, since Andrew is retiring from this project.
+Jam.py is raising funds to keep the software free for everyone, and we need the support of the entire community to do it. [Donate to Jam.py on Github](https://github.com/sponsors/platipusica) to show your support.
 
 
 ## From an idea of a web database application to a live website in no time, for free
@@ -35,19 +32,19 @@ to see some applications developed in Jam.py.
 
 More demos on PythonAnywhere:
 
-[SAP Theme Demo](https://jampyapp.pythonanywhere.com)
-[Personal Account Ledger from MS Access template](https://msaccess.pythonanywhere.com)
-[NorthWind Traders from MS Access template (wip)](https://northwind.pythonanywhere.com)
-[The ERP POC Demo with Italian and English translations](https://sem.pythonanywhere.com)
-[Assets/Parts Application (wip, currently Jam V7 Demo)](https://jampy.pythonanywhere.com)
-[Machine Learning (wip)](https://mlearning.pythonanywhere.com)
-[Auto Parts Sales for Brazilian Market (Portuguese)](https://carparts.pythonanywhere.com)
-[Resourcing and Billing Application from MS Access DB (wip)](https://resourcingandbilling.pythonanywhere.com)
-[Job Positions tracking App from MS Access DB (wip)](https://positionstracking.pythonanywhere.com)
-[Kanban/Tasks Application, V7](https://kanban.pythonanywhere.com)
-[Assets Inventory Application, V7 (wip)](https://assetinventory.pythonanywhere.com)
-[Google Authentication, V7](https://ipam2.pythonanywhere.com)
-[IP Management (V7, wip)](https://ipmgmt.pythonanywhere.com)
+- [SAP Theme Demo](https://jampyapp.pythonanywhere.com)
+- [Personal Account Ledger from MS Access template](https://msaccess.pythonanywhere.com)
+- [NorthWind Traders from MS Access template (wip)](https://northwind.pythonanywhere.com)
+- [The ERP POC Demo with Italian and English translations](https://sem.pythonanywhere.com)
+- [Assets/Parts Application (wip, currently Jam V7 Demo)](https://jampy.pythonanywhere.com)
+- [Machine Learning (wip)](https://mlearning.pythonanywhere.com)
+- [Auto Parts Sales for Brazilian Market (Portuguese)](https://carparts.pythonanywhere.com)
+- [Resourcing and Billing Application from MS Access DB (wip)](https://resourcingandbilling.pythonanywhere.com)
+- [Job Positions tracking App from MS Access DB (wip)](https://positionstracking.pythonanywhere.com)
+- [Kanban/Tasks Application, V7](https://kanban.pythonanywhere.com)
+- [Assets Inventory Application, V7 (wip)](https://assetinventory.pythonanywhere.com)
+- [Google Authentication, V7](https://ipam2.pythonanywhere.com)
+- [IP Management (V7, wip)](https://ipmgmt.pythonanywhere.com)
 
 
 Jam.py alternative site:
@@ -108,7 +105,7 @@ framework installation or https://jampy-docs.readthedocs.io/en/latest/intro/new_
 new project.
 
 For general discussion, ideas or similar, please visit mailgroup https://groups.google.com/g/jam-py or
-FB page https://www.facebook.com/groups/jam.py/
+FB page https://www.facebook.com/groups/jam.py/ (paused atm)
 
 
 ## License
@@ -124,5 +121,5 @@ who participated in this project.
 
 ## Maintainers
 
-[crnikaurin](https://github.com/crnikaurin), [platipus](https://github.com/platipusica)
+[crnikaurin](https://github.com/crnikaurin), [platipusica](https://github.com/platipusica)
 
