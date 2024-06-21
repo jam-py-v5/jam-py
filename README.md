@@ -4,14 +4,15 @@
 
 ## Jam.py Application Builder (web framework)
 
-## This is forked jam.py to continue the support and development, since Andrew is retiring from this project.
+## This is forked jam.py to continue the support and development, since Andrew is retiring from jam.py project. The GH organisation name is jam.py-v5, since we are hoping to release official v7 this year. 
+
 Jam.py is raising funds to keep the software free for everyone, and we need the support of the entire community to do it. [Donate to Jam.py on Github](https://github.com/sponsors/platipusica) to show your support.
 
 
 ## From an idea of a web database application to a live website in no time, for free
 
 
-![alt text](https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif)
+[![alt text](https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif)](https://northwind.pythonanywhere.com)
 
 
 If you are not a professional developer or an expert in databases, you can use
