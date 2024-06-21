@@ -12,16 +12,13 @@
    :alt: Documentation Status
 
 
-================
-Jam.py Application Builder (web framework)
-================
 
-This is Forked jam.py to continue the support and development, since Andrew is retiring from this project.
-=================================================================================
+### Jam.py Application Builder (web framework)
+
+### This is Forked jam.py to continue the support and development, since Andrew is retiring from this project.
 
 
-From an idea of a web database application to a live website in no time, for free
-=================================================================================
+## From an idea of a web database application to a live website in no time, for free
 
 Click on the image to see the online demo
 
@@ -50,28 +47,27 @@ to see some applications developed in Jam.py.
 
 More demos on PythonAnywhere:
 
-* [SAP Theme Demo](https://jampyapp.pythonanywhere.com)
-* [Personal Account Ledger from MS Access template](https://msaccess.pythonanywhere.com)
-* [NorthWind Traders from MS Access template (wip)](https://northwind.pythonanywhere.com)
-* [The ERP POC Demo with Italian and English translations](https://sem.pythonanywhere.com)
-* [Assets/Parts Application (wip, currently Jam V7 Demo)](https://jampy.pythonanywhere.com)
-* [Machine Learning (wip)](https://mlearning.pythonanywhere.com)
-* [Auto Parts Sales for Brazilian Market (Portuguese)](https://carparts.pythonanywhere.com)
-* [Resourcing and Billing Application from MS Access DB (wip)](https://resourcingandbilling.pythonanywhere.com)
-* [Job Positions tracking App from MS Access DB (wip)](https://positionstracking.pythonanywhere.com)
-* [Kanban/Tasks Application, V7](https://kanban.pythonanywhere.com)
-* [Assets Inventory Application, V7 (wip)](https://assetinventory.pythonanywhere.com)
-* [Google Authentication, V7](https://ipam2.pythonanywhere.com)
-* [IP Management (V7, wip)](https://ipmgmt.pythonanywhere.com)
+[SAP Theme Demo](https://jampyapp.pythonanywhere.com)
+[Personal Account Ledger from MS Access template](https://msaccess.pythonanywhere.com)
+[NorthWind Traders from MS Access template (wip)](https://northwind.pythonanywhere.com)
+[The ERP POC Demo with Italian and English translations](https://sem.pythonanywhere.com)
+[Assets/Parts Application (wip, currently Jam V7 Demo)](https://jampy.pythonanywhere.com)
+[Machine Learning (wip)](https://mlearning.pythonanywhere.com)
+[Auto Parts Sales for Brazilian Market (Portuguese)](https://carparts.pythonanywhere.com)
+[Resourcing and Billing Application from MS Access DB (wip)](https://resourcingandbilling.pythonanywhere.com)
+[Job Positions tracking App from MS Access DB (wip)](https://positionstracking.pythonanywhere.com)
+[Kanban/Tasks Application, V7](https://kanban.pythonanywhere.com)
+[Assets Inventory Application, V7 (wip)](https://assetinventory.pythonanywhere.com)
+[Google Authentication, V7](https://ipam2.pythonanywhere.com)
+[IP Management (V7, wip)](https://ipmgmt.pythonanywhere.com)
 
 
 Jam.py alternative site:
 
-* `https://jampyapplicationbuilder.com/`
+https://jampyapplicationbuilder.com/
 
 
-Main features
-=============
+## Main features
 
 Jam.py is an object oriented, event driven framework with hierarchical structure, modular design
 and very tight DB/GUI coupling. The server side of Jam.py is written in [Python](https://www.python.org),
@@ -113,10 +109,10 @@ the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaS
   project parameters and code) in a file that can be loaded by another
   application to apply all the changes.
 
-Documentation
-=============
+## Documentation
 
-All documentation is in the "docs" directory and online at
+
+All documentation is in the "docs" directory at the moment, and online at
 https://jampy-docs.readthedocs.io/ or https://jam-py-v5.github.io/jampy-docs/.
 
 Please visit https://jampy-docs.readthedocs.io/en/latest/intro/install.html for Python and
@@ -127,20 +123,18 @@ For general discussion, ideas or similar, please visit mailgroup https://groups.
 FB page https://www.facebook.com/groups/jam.py/
 
 
-License
-=======
+## License
 
 Jam.py is licensed under the BSD License.
 
-Original Author
-===============
+## Original Author
 
 Andrew Yushev
 
 See also the list of [contributors](http://jam-py.com/contributors.html)
 who participated in this project.
 
-Maintainers
-===========
+## Maintainers
+
 [crnikaurin](https://github.com/crnikaurin), [platipus](https://github.com/platipusica)
 
