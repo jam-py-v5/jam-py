@@ -15,18 +15,13 @@
 
 ### Jam.py Application Builder (web framework)
 
-### This is Forked jam.py to continue the support and development, since Andrew is retiring from this project.
+## This is Forked jam.py to continue the support and development, since Andrew is retiring from this project.
 
 
 ## From an idea of a web database application to a live website in no time, for free
 
-Click on the image to see the online demo
 
-.. figure:: assets/images/JAMPY_Readme.gif
-    :width: 100%
-    :align: center
-    :alt: Online demo
-    :target: https://northwind.pythonanywhere.com/
+![alt text](https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif)
 
 
 If you are not a professional developer or an expert in databases, you can use
