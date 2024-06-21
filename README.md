@@ -1,16 +1,9 @@
 
-.. image:: https://img.shields.io/pypi/v/jam.py.svg
-   :target: https://pypi.org/project/jam.py/
-   :alt: Package on PyPI
+[![Package on PyPI](https://img.shields.io/pypi/v/jam.py-v5.svg)](https://pypi.org/project/jam.py-v5)
 
-.. image:: https://img.shields.io/pypi/pyversions/jam.py.svg
-   :target: https://pypi.python.org/pypi/jam.py
-   :alt: Supported Python Versions
+[![Supported Python Versions](https://img.shields.io/pypi/pyversions/jam.py-v5.svg)](https://pypi.python.org/pypi/jam.py-v5)
 
-.. image:: https://readthedocs.org/projects/jampy-docs/badge/
-   :target: https://jampy-docs.readthedocs.io/
-   :alt: Documentation Status
-
+[![Documentation Status](https://readthedocs.org/projects/jampy-docs/badge/)](https://jampy-docs.readthedocs.io)
 
 
 ### Jam.py Application Builder (web framework)
