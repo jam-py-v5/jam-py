@@ -526,16 +526,21 @@ class SQL(object):
         if group_fields:
             for field_name in group_fields:
                 field = self._field_by_name(field_name)
-                if query['__expanded'] and field.lookup_item and field.data_type != consts.KEYS:
+                use_lookup_field = (query['__expanded'] and field.lookup_item and field.data_type != consts.KEYS)
+                lookup_sql = self.lookup_field_sql(field, db_module)
+                table_alias = self.table_alias()
+                if use_lookup_field:
                     func = functions.get(field.field_name.upper())
                     if func:
-                        result += '%s."%s", ' % (self.table_alias(), field.db_field_name)
+                            result += '%s."%s", ' % lookup_alias_sql
+                    elif field.master_field:
+                            result += '%s, ' % lookup_sql
+                    elif field.lookup_item:
+                        result += '%s, %s."%s", ' % (lookup_sql, table_alias, field.db_field_name)
                     else:
-                        #result += '%s, %s."%s", ' % (self.lookup_field_sql(field, db_module),
-                        #    self.table_alias(), field.db_field_name)
-                        result += '%s, ' % (self.lookup_field_sql(field, db_module))
+                            result += '%s, ' % lookup_sql
                 else:
-                    result += '%s."%s", ' % (self.table_alias(), field.db_field_name)
+                    result += '%s."%s", ' % (table_alias, field.db_field_name)
             if result:
                 result = result[:-2]
                 result = ' GROUP BY ' + result
