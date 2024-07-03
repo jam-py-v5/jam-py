@@ -12,8 +12,9 @@ Jam.py is raising funds to keep the software free for everyone, and we need the 
 ## From an idea of a web database application to a live website in no time, for free
 
 
-[![alt text](https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif)](https://northwind.pythonanywhere.com)
-
+<p align="center">
+    <img src="https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif" alt="Demo">
+</p>
 
 If you are not a professional developer or an expert in databases, you can use
 Jam.py to store, share and analyze your data.
