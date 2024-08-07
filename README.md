@@ -16,19 +16,18 @@ Jam.py is raising funds to keep the software free for everyone, and we need the 
     <img src="https://github.com/jam-py-v5/jam-py/blob/master/assets/images/JAMPY_Readme.gif" alt="Demo">
 </p>
 
-If you are not a professional developer or an expert in databases, you can use
-Jam.py to store, share and analyze your data.
-    
+As a Web development enthusiast, use Jam.py to store, share and analyze data quickly with no code.
+
 Please watch these videos to see how easy it is to create and setup Jam.py
-applications.
+applications:
 
 * [Creating CRM web database applications from start to finish in 7 minutes with Jam.py framework](https://youtu.be/vY6FTdpABa4)
 * [Setting up interface of Jam.py application using Forms Dialogs](https://youtu.be/hvNZ0-a_HHw)
 
-If you are a professional, you can use Jam.py to create various tools, dashboards,
+As a professional Web developer, use Jam.py to create various tools, dashboards,
 as well as large-scale business applications with complex internal logic.
 
-Please watch the
+Please watch the:
 [Jam.py framework applications](https://youtu.be/qkJvGlgoabU)  video
 to see some applications developed in Jam.py.
 
