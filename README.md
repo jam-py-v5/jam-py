@@ -4,7 +4,7 @@
 
 ## Jam.py Application Builder (web framework)
 
-This is forked jam.py to continue the support and development, since Andrew is retiring from jam.py project. The GH organisation name is jam.py-v5, since we are hoping to release official v7 this year. 
+This is forked jam.py to continue the support and development, since Andrew is retiring from jam.py project. The GH organisation name is jam.py-v5 to support automated PyPi build. We are hoping to release official V7 this year with Boostrap 5.
 
 Jam.py is raising funds to keep the software free for everyone, and we need the support of the entire community to do it. [Donate to Jam.py on Github](https://github.com/sponsors/platipusica) to show your support.
 
@@ -33,11 +33,13 @@ to see some applications developed in Jam.py.
 
 More demos on PythonAnywhere:
 
-- [SAP Theme Demo](https://jampyapp.pythonanywhere.com)
+
 - [Personal Account Ledger from MS Access template](https://msaccess.pythonanywhere.com)
 - [NorthWind Traders from MS Access template (wip)](https://northwind.pythonanywhere.com)
+- [NorthWind Traders from MS Access template V7 (wip)](https://northwind2.pythonanywhere.com)
+- [SAP Theme Demo](https://jampyapp.pythonanywhere.com)
 - [The ERP POC Demo with Italian and English translations](https://sem.pythonanywhere.com)
-- [Assets/Parts Application (wip, currently Jam V7 Demo)](https://jampy.pythonanywhere.com)
+- [Assets/Parts Application (wip, currently V7 Demo)](https://jampy.pythonanywhere.com)
 - [Machine Learning (wip)](https://mlearning.pythonanywhere.com)
 - [Auto Parts Sales for Brazilian Market (Portuguese)](https://carparts.pythonanywhere.com)
 - [Resourcing and Billing Application from MS Access DB (wip)](https://resourcingandbilling.pythonanywhere.com)
@@ -45,7 +47,7 @@ More demos on PythonAnywhere:
 - [Kanban/Tasks Application, V7](https://kanban.pythonanywhere.com)
 - [Assets Inventory Application, V7 (wip)](https://assetinventory.pythonanywhere.com)
 - [Google Authentication, V7](https://ipam2.pythonanywhere.com)
-- [IP Management (V7, wip)](https://ipmgmt.pythonanywhere.com)
+- [IP Management V7 (wip)](https://ipmgmt.pythonanywhere.com)
 
 
 Jam.py alternative site:
@@ -68,7 +70,7 @@ the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaS
   Make changes in the Application builder, go to the project, refresh the page,
   and see the results.
 
-* Supports SQLite, PostgreSQL, MySQL, Firebird, MSSQL and
+* Supports SQLite, SQLCipher, PostgreSQL, MySQL, Firebird, MSSQL and
   Oracle databases. The concept of the framework allows you to migrate from
   one database to another without changing the project.
 
@@ -98,7 +100,6 @@ the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaS
 ## Documentation
 
 
-All documentation is in the "docs" directory at the moment, and online at
 https://jampy-docs.readthedocs.io/ or https://jam-py-v5.github.io/jampy-docs/.
 
 Please visit https://jampy-docs.readthedocs.io/en/latest/intro/install.html for Python and
