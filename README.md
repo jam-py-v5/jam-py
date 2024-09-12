@@ -70,8 +70,8 @@ the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaS
   Make changes in the Application builder, go to the project, refresh the page,
   and see the results.
 
-* Supports SQLite, SQLCipher, PostgreSQL, MySQL, Firebird, MSSQL and
-  Oracle databases. The concept of the framework allows you to migrate from
+* Supports SQLite, SQLCipher, PostgreSQL, MySQL, Firebird, MSSQL,
+  Oracle and IBM DB2 databases. The concept of the framework allows you to migrate from
   one database to another without changing the project.
 
 * Authentication, authorization, session management, roles and permissions.
