@@ -62,8 +62,8 @@ and very tight DB/GUI coupling. The server side of Jam.py is written in [Python]
 the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript),
 [jQuery](https://jquery.com) and [Bootstrap](http://getbootstrap.com/2.3.2).
 
-* Simple, clear and efficient IDE. The development takes place in the
-  Application builder, an application written completely in Jam.py.
+* Simple, clear and efficient IDE, Borland Delphi style. The development takes place in the
+  Application builder, an application written completely with Jam.py.
 
 * “All in the browser” framework. With Jam.py, all you need are two pages
   in the browser, one for the project, the other for the Application builder.
@@ -92,9 +92,9 @@ the client utilizes [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaS
 
 * Predefined css themes.
 
-* Develop and test locally update remotely. Jam.py has Export and Import
+* Develop and test locally, update remotely. Jam.py has Export and Import
   utilities that allow developer to store all metadata (database structures,
-  project parameters and code) in a file that can be loaded by another
+  project parameters and code), in a file that can be loaded by
   application to apply all the changes.
 
 ## Documentation
