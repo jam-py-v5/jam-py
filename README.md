@@ -29,7 +29,7 @@ as well as large-scale business applications with complex internal logic.
 
 Please watch the:
 [Jam.py framework applications](https://youtu.be/qkJvGlgoabU)  video
-to see some applications developed in Jam.py, or see the Pivot.js in action for [Pivot tables](https://www.youtube.com/watch?v=2Vg399Ewb20&lc).
+to see some applications developed with Jam.py, or see the Pivot.js in action for [Pivot tables](https://www.youtube.com/watch?v=2Vg399Ewb20&lc).
 
 More demos on PythonAnywhere:
 
