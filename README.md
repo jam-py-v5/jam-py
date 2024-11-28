@@ -8,6 +8,7 @@ This is forked jam.py to continue the support and development, since Andrew is r
 
 Jam.py is raising funds to keep the software free for everyone, and we need the support of the entire community to do it. [Donate to Jam.py on Github](https://github.com/sponsors/platipusica) to show your support.
 
+Please with the Northwind Traders app in [Windows App store](https://apps.microsoft.com/store)
 
 ## From an idea of a web database application to a live website in no time, for free
 
