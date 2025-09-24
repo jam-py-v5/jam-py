@@ -5,7 +5,8 @@
 ## Jam.py is a web front-end application generator that works with both existing databases and newly created ones. 
 ## With Monaco editor!
 
-## This is forked jam.py to continue the support and development, since Andrew is retiring from jam.py project. The GH organisation name is jam.py-v5, since we are hoping to release official v7 this year (2025). 
+## This is forked jam.py to continue the support and development, since Andrew is retiring from jam.py project. The GH organisation name is jam.py-v5, since we are hoping to release official v7 this year (released in Sep/2025). This repo is now archived, and new lives here:
+https://github.com/jam-py-v5/jam-py-v7
 
 ## The LLMS-full.txt is released: 
 https://jampy-docs-v7.readthedocs.io/en/latest/llms-full.txt 
